@@ -1,0 +1,8 @@
+path: C:/Users/apode/PycharmProjects/PlakaTanimlamaSistemi001/dataArabaPlaka001 # dataset root dir
+train:  images/train # train images (relative to 'path') 1743042 images
+val:  images/train # val images (relative to 'path') 41620 images
+
+
+# Classes
+names:
+  0: plaka
